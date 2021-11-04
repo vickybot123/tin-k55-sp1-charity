@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635657953 source:c:\users\hungv\study\coding\tin-sp1\mildle-test\charity\arrays.cpp
+	<iostream>
+	"arrays.h"
+
+1635657831 c:\users\hungv\study\coding\tin-sp1\mildle-test\charity\arrays.h
+
+1635657935 source:c:\users\hungv\study\coding\tin-sp1\mildle-test\charity\main.cpp
+	<iostream>
+	"arrays.h"
+
